@@ -1,8 +1,8 @@
 # demo02-monobehaviour
 
-Exploring the MonoBehaviour
+Exploring the MonoBehaviour:
 
-```
+```csharp
 using UnityEngine;
 
 public class MyClass : MonoBehaviour
